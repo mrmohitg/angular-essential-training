@@ -9,6 +9,10 @@
   color: #bdc2c5;
   margin: 0 12px 12px 0;
 }
+h1 {
+  font-size: 1.6em;
+  flex: 1;
+}
 h2 {
   font-size: 1.6em;
   flex: 1;
